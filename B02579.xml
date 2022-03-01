@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Francis Stratford, Esq; sitting member for the borough of Newport, in the county of Cornwall, against John Prideaux Esq; petitioner.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02579</idno>
+            <idno type="STC">Wing C914</idno>
+            <idno type="STC">ESTC R170944</idno>
+            <idno type="EEBO-CITATION">52211903</idno>
+            <idno type="OCLC">ocm 52211903</idno>
+            <idno type="VID">175473</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02579)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175473)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2738:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Francis Stratford, Esq; sitting member for the borough of Newport, in the county of Cornwall, against John Prideaux Esq; petitioner.</title>
+                  <author>Stratford, Francis.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>Reproduction of the original in the Lincoln's Inn Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Stratford, Francis --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Prideaux, John --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament. --  House of Commons --  Contested elections --  Early works to 1800.</term>
+               <term>Elections --  Corrupt practices --  England --  Cornwall --  Early works to 1800.</term>
+               <term>Cornwall (England : County) --  Politics and government --  17th century --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175473:1"/>
+            <head>The <hi>CASE</hi> of <hi>Francis Stratford</hi> Eſq; Sitting Member for the Bo<g ref="char:EOLhyphen"/>rough of <hi>Newport,</hi> in the County of <hi>Cornwall,</hi> againſt <hi>JOHN PRIDEAUX</hi> Eſq; Petitioner.</head>
+            <p>UPON the Day of Election, the Vianders adjourn'd the Poll to the Houſe of <hi>John Rattenbury,</hi> where all were admitted before the Poll began; But there appearing very many Unqualified Voices amongſt them, the Vianders found themſelves oblig'd to take convenient time to conſult the Rates, and to inform themſelves fully, who were good Voices, before they declar'd the Election. The next Day after, they Sign'd the Indenture for the Sitting Member at <hi>Werington,</hi> but a Mile diſtant from the Borough; The 23th. <hi>Stat.</hi> of <hi>Hen. 6. Chap. 15.</hi> not obliging them either to Time or Place.</p>
+            <p>The Sitting Member had 39 Voices.</p>
+            <p>The Petitioner had—72</p>
+            <p>Againſt the latter, 50 were excepted againſt, as not duly qualified, and 13 more having received Gifts and Entertainments were left to be diſqualified by this Houſe.</p>
+            <p>45 Forty five were excepted againſt for having no Freehold in the Borough, or not paying Scot and Lot.</p>
+            <p>11 The Petitioner's Councel gave up Eleven, <hi>(viz.) Mat. Pomroy, Chriſtopher May, John Lucas, Iſaac Carter, John Kellard, Robert Froſt</hi> Junior, <hi>John Bear, William Bray, Thomas Hodge, John Paul, William Kingdome</hi> Junior.</p>
+            <p>12 Twelve others not juſtified or ſpoke to by the Petitioner, <hi>(viz.) Nich. Hodge, Tho. French, Francis Manaton, William Bewes</hi> Junior, <hi>William Bunſell, Alex. Carew, Ely Foſter, Degory Doidge, John Dimſie, Abel Rawl, Nicholas Kittau, Degory Glanville.</hi>
+            </p>
+            <p>4 Four no farther juſtified, than by Saying they had Voted formerly, <hi>(viz.) Oliver White, Thomas Baker, Samuel Gift, Thomas Facy.</hi>
+            </p>
+            <p>4 Four acknowledg'd by the Petitioner to be only Truſtees, <hi>(viz.) Edward Ellyot</hi> Eſq; <hi>Phil. Congdon, William Prout, Nicholas Phillips.</hi>
+            </p>
+            <p>4 Four Produc'd Sham-Deeds without Livery, <hi>(viz.) William Major, John, Dawe, Chr. Burnard, William Patchcott,</hi> Diſqualified.</p>
+            <p>1 <hi>Robert Hecks</hi> own'd he was put upon the Poor rate only to entitle him to a Vote, but never Paid, and had <hi>2 s. 6. d.</hi> given him.</p>
+            <p>1 <hi>John Clements</hi> rate appear'd to be only for <hi>Skirme</hi>'s Houſe.</p>
+            <p>1 <hi>William Cary</hi> Eſq; was at the Committee, and did not pretend to be a Freeholder, and <hi>John Wood</hi> declar'd, That he went with <hi>Degory Bewes</hi> to view his Land, and they agreed it was in the Mannor, but not in the Borough.</p>
+            <p>1 <hi>Degory Geake</hi> is no Payer, as appears by the Poor rate left on the Table.</p>
+            <p>1 <hi>William Bewes</hi> Senior, no Payer, prov'd by a Deed left on the Table, whereby <hi>Degory Bewes</hi> is oblig'd by Covenant to pay the rates.</p>
+            <p>1 <hi>Philip King</hi> produc'd a Deed of 9 <hi>d. per Annum,</hi> but could not ſay he had receiv'd any Rent in 20 Years.</p>
+            <p>1 <hi>Richard Kingdome</hi> Junior, had a Freehold made in conſideration of Marriage, which was not conſummated till after the Election.</p>
+            <p>1 <hi>Tho. Wood</hi> produc'd a Deed for a Freehold, and <hi>John Wood</hi> offer'd to produce another proving the Sale of his Lands, which the Com<g ref="char:EOLhyphen"/>mittee did not think fit to allow of, nor to admit of Evidence to prove others had been treated beſides the 13 mention'd in the Poll, which your Sitting Member thought a great hardſhip, by Reaſon when the Councel would have confronted ſome of the Petitioner's Witneſſes, they were told, they ſhould be heard afterwards.</p>
+            <p>5 Five Voted for Eſtates others had done before, <hi>(viz.) Chr. Baron,</hi> Voted for the ſame Tenement <hi>John Murth</hi> Voted for.</p>
+            <p>
+               <hi>Arth. Tucker,</hi> for the ſame Eſtate <hi>John Harris</hi> Voted for before.</p>
+            <p>
+               <hi>Tho. Wadden,</hi> for the ſame Plott of Land <hi>Leonard Pethick</hi> Voted for.</p>
+            <p>
+               <hi>William Yeo,</hi> for the ſame Land <hi>John Forteſcue</hi> Voted for.</p>
+            <p>
+               <hi>Henry Glanville,</hi> for the ſame Tenement <hi>John Bartlet</hi> Voted for; and was alſo treated.</p>
+            <p>13 Thirteen receiv'd Gifts and Entertainments, <hi>(viz.) Thomas Horwell, Walter Kingdome, John Bennet, Robert Froſt,</hi> Senior, <hi>Nicholas Burt, William Kingdome,</hi> Senior, <hi>John Pearce, Degory Doidge,</hi> Senior, <hi>Chriſtopher Kingdome, Edward Kingdome, Paul Hopegood, Robert Pepperel, Timothy Harvey.</hi>
+            </p>
+            <p>61—Sixty One Diſqualified in all.</p>
+            <p>11—Eleven only remained good.</p>
+            <p>Of the Sitting Member's 39 Votes, 17 were excepted againſt, wherof 6 were diſqualified, and 3 ſtood dubious. So remains at leaſt 30 good Voices, which makes a Majority of 19 for your Sitting Member.</p>
+            <div type="part">
+               <head>The Gifts and Entertainments were Prov'd as follow:</head>
+               <p>
+                  <hi>Robert Hecks</hi> declar'd, That he had <hi>2 s. 6 d.</hi> given him by the Parſon, <hi>Ely Foſter,</hi> who deſir'd his Vote at the ſame time for Mr. <hi>Prideaux.</hi>
+               </p>
+               <p>That the ſaid <hi>Foſter</hi> order'd him to draw 10 <hi>s.</hi> in Drink for Mr. <hi>Prideaux</hi>'s Friends, which he accordingly did.</p>
+               <p>That about Forty of Mr. <hi>Prideaux</hi>'s Voters were Treated at Mr. <hi>Horwell</hi>'s with Cyder, and about Twenty Gallons of Punch, where Mr. <hi>Prideaux</hi> was preſent, and deſir'd their Votes.</p>
+               <p>That Mr. <hi>Prideaux,</hi> and ſeveral of his Voices, drank out a Barrel of Ale at Mr. <hi>Foſter</hi>'s, which was ſent in from a Publick-Houſe.</p>
+               <p>That Mr. <hi>Prideaux</hi> was at <hi>Chriſtopher Kingdome</hi>'s with moſt part of his Voices, and drank with them before the Election.</p>
+               <p>That he told Mr. <hi>Foſter,</hi> He thought he would get a Hundred Guinea's for his Intereſt and Pains in procuring Votes for Mr. <hi>Prideaux.</hi> To which Mr. <hi>Foſter</hi> anſwer'd, <hi>No,</hi> Robert; <hi>but I ſhall get Fifty by it.</hi>
+               </p>
+               <p>
+                  <hi>Thomas Kingdome</hi> teſtified, That Mr. <hi>Foſter</hi> ſaid he had receiv'd of Mr. <hi>Specott</hi> Five and twenty Half Crowns for the Voters, and that he ſaw him give one to <hi>Degory Doidge,</hi> Junior, who Voted for Mr. <hi>Prideaux;</hi> and alſo told the ſaid <hi>Thomas,</hi> That he and ſeveral others were to have Cordivan Gloves the next day at Mr. <hi>Specott</hi>'s where the ſaid <hi>Kingdome</hi> went, and ſo did <hi>Horwell, Foſter, Bennett, Pearce, William Bewes,</hi> Senior, <hi>Edward Kingdome, Richard Kingdome,</hi> Junior, and ſeveral others, and Dined there with Mr. <hi>Prideaux,</hi> and had each of them a Pair of Gloves; and as ſoon as the Gloves were given, Mr. <hi>Prideaux</hi> call'd the Glover into another Room, (as he believ'd) to pay him for them.</p>
+               <p>
+                  <hi>John Rattenbury</hi> declar'd, That on the 6th. of <hi>January</hi> he was with <hi>Robert Pepperel,</hi> to wait on Col. <hi>Specott,</hi> and that Col. <hi>Specott</hi> ſent for him into his Chamber, and deſir'd his Vote for Mr. <hi>Prideaux:</hi> Which he refuſing, Col. <hi>Specott</hi> told him, That he ſhould loſe a Pair of Gloves by it; and that <hi>Robert Pepperel,</hi> who complied with the Colonel, had Gloves, and he had none.</p>
+               <p>
+                  <hi>John Wood</hi> declar'd, That <hi>Robert Pepperel, William Kingdome,</hi> Senior, and <hi>Degory Doidge</hi> had promis'd him to Vote for Mr. <hi>Stratford;</hi> but the firſt acknowledg'd to him that he had receiv'd Gloves, and the two latter confeſs'd they had each Half a Crown given them.</p>
+            </div>
+            <pb facs="tcp:175473:2" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
